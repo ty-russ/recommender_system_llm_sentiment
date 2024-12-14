@@ -45,18 +45,8 @@ This project is a sentiment-enhanced recommendation system designed to improve p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/sentiment-recommender.git
-   cd sentiment-recommender
-   ```
-
-2. Build the Docker image:
-   ```bash
-   docker build -t sentiment-recommender .
-   ```
-
-3. Run the container:
-   ```bash
-   docker run --gpus all -p 8080:8080 sentiment-recommender
+   git clone https://github.com/ty-russ/recommender_system_llm_sentiment.git
+   cd llm_sentiment_recommender_tirus_rafat
    ```
 
 ## Usage
