@@ -77,12 +77,6 @@ This project is a sentiment-enhanced recommendation system designed to improve p
 }
 ```
 
-### 2. Evaluate Model
-Run the evaluation script:
-```bash
-python evaluate.py
-```
-
 ### 3. Save and Load Models
 - Save the fine-tuned sentiment model:
 ```python
